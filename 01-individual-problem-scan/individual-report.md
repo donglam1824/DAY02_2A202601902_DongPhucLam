@@ -7,12 +7,6 @@
 | 3 | Tốn thời gian | Viết mô tả sản phẩm chuẩn SEO từ catalogue của nhà sản xuất | Marketing | 20–40 phút/sản phẩm |
 | 4 | Tốn thời gian | Tổng hợp các câu hỏi khách thường hỏi để cập nhật FAQ | CSKH | 1–2 giờ/tuần |
 | 5 | AI có thể tốt hơn | Tóm tắt hàng trăm đánh giá của khách về một sản phẩm | Marketing, Product | Phân tích sentiment và các vấn đề nổi bật |
-| 6 | AI có thể tốt hơn | Slack search tìm decision cũ rất khó | Cả team | 10-15 phút/lần tìm |
-| 7 | Pain từ người khác | Designer phải hỏi lại vì spec từ PM mập mờ | Designer, PM | Hỏi lại 2-3 lần/spec |
-| 8 | Pain từ người khác | CEO hỏi update nhưng report chưa sẵn | CEO, PM | Hay bị trễ deadline thứ Hai |
-| 9 | Tốn thời gian | Tổng hợp monthly KPI từ nhiều dashboard | PM, manager | Lặp lại mỗi tháng |
-| 10 | Lặp lại | Viết standup update mỗi sáng cùng format | PM | 5-10 phút/ngày |
-
 
 ## Top 3
 
@@ -231,3 +225,4 @@ FUTURE STATE — 4 phút
 
 Fallback: Nếu khách có yêu cầu đặc biệt hoặc AI không đủ dữ liệu, Sales quay lại quy trình tư vấn thủ công.
 ```
+
